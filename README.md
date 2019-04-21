@@ -5,4 +5,4 @@ Toggle dark background and save it to local storage.
   Toggle Dark Mode - With Local Storage</a> by miranda (<a href="https://codepen.io/mirandalwashburn">@mirandalwashburn</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
+
